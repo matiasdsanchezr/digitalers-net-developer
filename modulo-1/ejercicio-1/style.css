@@ -1,0 +1,66 @@
+* {
+  font-size: 33.33px;
+  font-family: "Asap", system-ui, -apple-system, Roboto;
+  color: #04146c;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background-color: #edf7ff;
+  border-top: 3px solid #5b67b3;
+  width: min-content;
+}
+
+div {
+  padding: 2rem;
+}
+
+h1 {
+  font-family: "MuseoModerno";
+  font-size: 117.33px;
+  line-height: 1em;
+  font-weight: bold;
+  color: #0a2ff1;
+}
+
+h2 {
+  font-size: 52px;
+  line-height: 1em;
+  font-weight: 400;
+  color: #0a2ff1;
+  width: max-content;
+}
+
+h3 {
+  font-family: "MuseoModerno";
+  line-height: 1em;
+  font-size: 48px;
+  font-weight: bold;
+  color: #0a2ff1;
+}
+
+h4 {
+  font-family: "MuseoModerno";
+  font-size: 198.66px;
+  line-height: 1em;
+  font-weight: bold;
+  color: #8a9af1;
+  user-select: none;
+}
+
+p {
+  margin: 2rem 0;
+}
+
+ul {
+  padding: 1rem;
+}
+
+li {
+  font-weight: bold;
+  list-style: disc;
+}

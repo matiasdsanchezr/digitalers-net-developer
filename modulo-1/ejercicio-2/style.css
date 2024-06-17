@@ -1,0 +1,62 @@
+* {
+  font-size: 16px;
+  font-family: "Montserrat", system-ui, -apple-system, Roboto;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1em;
+}
+
+div {
+  border: 3px solid black;
+  text-align: center;
+  width: min-content;
+}
+
+h1 {
+  font-size: 197.3px;
+  line-height: 1em;
+  font-weight: black;
+  color: black;
+  background-color: white;
+}
+
+h2 {
+  font-size: 217.3px;
+  line-height: 1em;
+  font-weight: black;
+  color: white;
+  background-color: black;
+  padding: 1em;
+}
+
+h3 {
+  font-size: 60px;
+  line-height: 1em;
+  font-weight: black;
+  background-color: white;
+}
+
+h4 {
+  font-size: 66.6px;
+  line-height: 1em;
+  font-weight: black;
+  color: white;
+  background-color: black;
+  user-select: none;
+  padding: 1em;
+}
+
+p {
+  font-size: 58.6px;
+  color: white;
+  background-color: black;
+  padding: 1em;
+}
+
+span {
+  font-size: 48px;
+  font-weight: 600;
+}
