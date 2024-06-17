@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;900&display=swap');
+
+* {
+  font-size: 16px;
+  font-family: "Source Sans Pro", system-ui, -apple-system, Roboto;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1em;
+}
+
+main {
+  min-width: 50%;
+  width: min-content;
+  text-align: center;
+  border: 2px solid #04146c;
+  margin: auto;
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 88px;
+  font-weight: black;
+  color: #04146c;
+  padding: 0.5em 0;
+}
+
+h2 {
+  font-size: 38.6px;
+  background-color: #04146c;
+  color: white;
+}
+
+h3 {
+  font-size: 26.6px;
+  font-weight: 400;
+  color: #04146c;
+  padding-bottom: 1em;
+}
+
+p {
+  font-size: 24px;
+  font-weight: 500;
+  background-color: #edf7ff;
+  color: #04146c;
+  margin: 1em 0;
+}
+
+strong {
+  font-weight: bold;
+  font-size: inherit;
+  color: inherit;
+}
+
+div {
+  margin: auto;
+}
+
+img {
+  width: 600px;
+}

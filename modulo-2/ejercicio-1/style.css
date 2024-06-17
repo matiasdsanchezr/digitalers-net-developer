@@ -1,6 +1,6 @@
 * {
   font-size: 16px;
-  font-family: "Montserrat", system-ui, -apple-system, Roboto;
+  font-family: "Poppins", system-ui, -apple-system, Roboto;
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
@@ -16,7 +16,6 @@ section {
 
 h1 {
   font-size: 78.6px;
-  line-height: 1.25em;
   font-weight: bold;
   color: #0a2ff1;
   width: max-content;
