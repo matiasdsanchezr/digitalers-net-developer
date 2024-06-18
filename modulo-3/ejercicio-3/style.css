@@ -1,0 +1,68 @@
+* {
+  font-size: 16px;
+  font-family: "Mulish", system-ui, -apple-system, Roboto;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+section {
+  margin: auto;
+  border: 1px solid #0b30e750;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #04146c;
+}
+
+input,
+button {
+  width: 500px;
+  height: 50px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+input {
+  font-size: 18.66px;
+  color: #414166;
+}
+
+button {
+  font-size: 20;
+  font-weight: 500;
+  background-color: #0a2ff1;
+  color: white;
+  border: none;
+}
+
+a {
+  font-size: 18.66px;
+  color: #0a2ff1;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 100%;
+}
