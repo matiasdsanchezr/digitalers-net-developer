@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700&display=swap");
+
+* {
+  font-size: 16px;
+  font-family: "Roboto", system-ui, -apple-system, Roboto;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.nav-title {
+  font-weight: bold;
+}
+
+.nav ul {
+  display: flex;
+  gap: 1rem;
+}
+
+strong {
+  font-weight: bold;
+}

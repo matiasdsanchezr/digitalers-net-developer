@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;900&display=swap");
 
 * {
   font-size: 16px;
@@ -8,7 +8,6 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  line-height: 1em;
 }
 
 main {
@@ -17,7 +16,6 @@ main {
   text-align: center;
   border: 2px solid #04146c;
   margin: auto;
-  padding: 1rem 0;
 }
 
 h1 {
@@ -52,10 +50,6 @@ strong {
   font-weight: bold;
   font-size: inherit;
   color: inherit;
-}
-
-div {
-  margin: auto;
 }
 
 img {
