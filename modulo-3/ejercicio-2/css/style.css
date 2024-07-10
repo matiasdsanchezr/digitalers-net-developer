@@ -14,6 +14,7 @@ body {
   padding: 1rem;
   display: flex;
   justify-content: center;
+  min-width: 320px;
 }
 
 section {
@@ -31,7 +32,8 @@ strong {
   font-size: 22.55px;
   color: #0a2ff1;
   background-color: #eff2ff;
-  width: max-content;
+  margin-right: auto;
+  display: inline-block;
 }
 
 strong {
@@ -39,7 +41,7 @@ strong {
 }
 
 img {
-  width: 30;
+  width: 30%;
 }
 
 button {
@@ -59,7 +61,13 @@ button:hover {
 
 hr {
   border: none;
-  border-bottom: 10px solid #3ffff3;
+  border-bottom: 7.5px solid #3ffff3;
   width: 100%;
   padding: 0.25rem;
+}
+
+@media only screen and (max-width: 769px) {
+  h1 {
+    font-size: 40.66px;
+  }
 }

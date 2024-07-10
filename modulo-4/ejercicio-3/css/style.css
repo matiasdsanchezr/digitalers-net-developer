@@ -14,7 +14,7 @@
 }
 
 header {
-  background-image: url("M4\ -\ Desafío3_img-header.png");
+  background-image: url("../images/M4-Desafío3_img-header.png");
   width: 100%;
   min-height: 500px;
   background-size: cover;
@@ -24,6 +24,10 @@ main {
   width: 80%;
   padding: 10px;
   margin: auto;
+}
+
+div {
+  margin-left: 12.5%;
   display: grid;
   gap: 2rem;
 }

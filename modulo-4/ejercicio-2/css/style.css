@@ -15,11 +15,11 @@ body {
   padding: 1rem;
   display: flex;
   justify-content: center;
-  background-image: url("../assets/M4-desafio1-fondo.png");
+  background-image: url("../images/M4-desafio1-fondo.png");
 }
 
 section {
-  background-image: url("../assets/M4-desafio1-fondo-form.png");
+  background-image: url("../images/M4-desafio1-fondo-form.png");
   margin: auto;
   border: 1px solid #0b30e750;
   padding: 2rem 6rem;
