@@ -29,3 +29,13 @@
 - Desafío 1 - <https://matiasdsanchezr.github.io/digitalers-net-developer/modulo-5/ejercicio-1/>
 - Desafío 2 - <https://matiasdsanchezr.github.io/digitalers-net-developer/modulo-5/ejercicio-2/>
 - Desafío 3 - <https://matiasdsanchezr.github.io/digitalers-net-developer/modulo-5/ejercicio-3/>
+
+## Modulo 6
+
+- Desafío 1 - <https://matiasdsanchezr.github.io/digitalers-net-developer/modulo-6/ejercicio-1/>
+- Desafío 2 - <https://matiasdsanchezr.github.io/digitalers-net-developer/modulo-6/ejercicio-2/>
+
+## Modulo 7
+
+- Desafío 1 - <https://matiasdsanchezr.github.io/digitalers-net-developer/modulo-7/ejercicio-1/>
+- Desafío 2 - <https://matiasdsanchezr.github.io/digitalers-net-developer/modulo-7/ejercicio-2/>
